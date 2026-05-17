@@ -1,10 +1,36 @@
-Hello, World ! 😀
+# Hi, I'm Seongyeon 👋
 
-I just like to make anything like motion grafics and web-site (front-end, back-end, web-publisher)
+I'm a client-side developer with 3 years of experience in React and TypeScript, currently transitioning into iOS development.
 
-- 🔭 I’m currently working on developing web -service that provide from the beginning to the end of the study meeting . I hope to finish this project by September. 
-- 🌱 I’m currently learning nodejs(using express.js) and react, react-native, vue.js
-- 🤔 I’m looking for help with Intelligently full-stack developer who can give me a lot of information about React, vue.js, nodejs
-- 📫 How to reach me: bsy17171@naver.com call me baby 
+My background in web frontend development helped me build a strong foundation in UI development, API integration, authentication flow, state management, testing, and deployment.  
+Now I'm applying that experience to iOS projects using Swift, UIKit, SwiftUI, TCA, and Clean Architecture.
 
+I care about building maintainable apps with predictable state changes, clear architecture, and reliable tests.
 
+## Focus Areas
+
+- iOS development with Swift, UIKit, SwiftUI, and TCA
+- Client-side architecture and state management
+- Testable feature design
+- API integration and authentication flows
+- Refactoring legacy code into maintainable structures
+
+## Tech Stack
+
+### iOS
+Swift, UIKit, SwiftUI, TCA, RxSwift, XCTest
+
+### Web
+React, TypeScript, JavaScript, React Query, Zustand, Nx
+
+### Tools & Infra
+Supabase, GitHub Actions, AWS S3, Tuist
+
+## Projects
+
+- Bible Atlas — iOS Bible geography app released on the App Store
+- MyBookManager — iOS reading tracker app built with TCA and Supabase
+
+## Contact
+
+Email: bsy17171@naver.com
